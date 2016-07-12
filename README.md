@@ -1,2 +1,4 @@
 # python-automate-book
-Py exercises or Automate Boring Stuff
+Python drills/exercises/practice questions for the book " Automate Boring Stuff with Python"
+
+
